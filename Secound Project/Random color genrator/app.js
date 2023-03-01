@@ -4,4 +4,4 @@ function color(){
     document.querySelector(".container").style.backgroundColor=hex;
 
 }
-document.getElementById("btn").addEventListener('click',color);
+document.getElementById("btn").addEventListener('click',color );
