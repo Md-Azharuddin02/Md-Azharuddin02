@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Md-Azharuddin02
 - 👀 I’m interested in Web development
 - 🌱 I’m working as a Technical support Engineer at MandSConsulting.
-- 💞️ I’m looking for internships
 - 📫 email:- mdazharuddin155332@gmail.com, phone:-7282845498
 
 <!---
