@@ -18,7 +18,7 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 ---
 
 ## 🌐 Connect with Me:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/MdAzharuddin)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazharuddin02/)
 
 ---
