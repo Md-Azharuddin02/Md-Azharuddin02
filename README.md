@@ -1,4 +1,19 @@
 # 💫 About Me:
+# About Me<br><br>🔭 **I’m currently working on**  <br>Developing dynamic, high-performance user interfaces and scalable web applications as a React Developer at M&S Consulting. I'm deeply involved in leveraging React.js, Redux, and JavaScript to create seamless user experiences.<br><br>👯 **I’m looking to collaborate on**  <br>Innovative full-stack projects, particularly those focusing on React, Node.js, and AWS integration. If you're building something exciting in web development or cloud solutions, let's connect!<br><br>🤝 **I’m looking for help with**  <br>Exploring advanced cloud technologies and enhancing my expertise in DevOps practices. If you're an expert in AWS or similar platforms, I'd love to learn from your experience.<br><br>🌱 **I’m currently learning**  <br>Advanced Web APIs, optimizing database management with MongoDB and SQL, and diving deeper into modern backend frameworks like Django. I'm also keeping up with the latest trends in startup technologies and software architecture.<br><br>💬 **Ask me about**  <br>React.js, Redux, building scalable applications, or debugging complex system architectures. With a solid background in technical support engineering, I'm always happy to share insights and tips.<br><br>⚡ **Fun fact**  <br>I thrive on staying updated with the latest startup trends and emerging technologies. My journey from technical support to full-stack development reflects my passion for continuous growth and problem-solving.<br><br>---<br><br>**Technical Skills at a Glance**  <br>- **Programming Languages**: JavaScript, Python, C, Java, Node.js  <br>- **Web Development**: React.js, Redux, HTML5, CSS3, Bootstrap, Django, Rest APIs  <br>- **Database Management**: MySQL, MongoDB  <br>- **Cloud & Tools**: AWS, Splunk, SQL Server, Git  <br><br>Feel free to reach out if you're interested in collaboration or just want to chat about tech, startups, or development challenges!<br>
+
+
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md Azharuddin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Md Azharuddin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md Azharuddin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+
+
+# 💫 About Me:
 Passionate **Full Stack Developer** with expertise in **React.js**, **JavaScript**, and **Redux**, currently building dynamic web applications at **M&S Consulting**. I specialize in crafting scalable, high-performance user interfaces and solving complex technical challenges. With proficiency in **React**, **Node.js**, **SQL**, **AWS**, and **Web APIs**, I have a strong foundation in data structures and web development.  
 I am enthusiastic about cutting-edge technologies, startup trends, and continuous learning to stay ahead in the tech world.  
 
