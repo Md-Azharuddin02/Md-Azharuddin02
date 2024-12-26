@@ -60,7 +60,8 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 ---
 
 ### 🔝 Top Contributed Repos:
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MdAzharuddin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Md Azharuddin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
