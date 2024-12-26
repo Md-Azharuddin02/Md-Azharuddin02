@@ -58,10 +58,6 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 
 ---
 
-### ✍️ Random Developer Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ### 🔝 Top Contributed Repos:
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MdAzharuddin&limit=5&theme=dark&combine_all_yearly_contributions=true)
