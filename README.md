@@ -70,9 +70,6 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 
 [![](https://visitcount.itsvg.in/api?id=MdAzharuddin&icon=1&color=0)](https://visitcount.itsvg.in)
 
----
-
-> **Proudly created using [GPRM](https://gprm.itsvg.in)**
 
 ---
 
