@@ -1,7 +1,5 @@
 # 💫 About Me
 
-## About Me
-
 🔭 **I’m currently working on**  
 Developing dynamic, high-performance user interfaces and scalable web applications as a React Developer at M&S Consulting. I'm deeply involved in leveraging React.js, Redux, and JavaScript to create seamless user experiences.
 
