@@ -20,7 +20,7 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazharuddin02/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat&logo=githubpages&logoColor=white)](https://md-azharuddin02.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?style=flat&logo=githubpages&logoColor=black)](https://md-azharuddin02.github.io/Portfolio)
 
 ---
 
@@ -61,3 +61,4 @@ I am enthusiastic about cutting-edge technologies, startup trends, and continuou
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MdAzharuddin&icon=1&color=0)](https://visitcount.itsvg.in)
+
