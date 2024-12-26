@@ -1,22 +1,22 @@
 # 💫 About Me
 
 🔭 **I’m currently working on**  
-Developing dynamic, high-performance user interfaces and scalable web applications as a React Developer at M&S Consulting. I'm deeply involved in leveraging React.js, Redux, and JavaScript to create seamless user experiences.
+Designing and implementing dynamic, user-friendly web interfaces as a Software Engineer at M&S Consulting. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
 
 👯 **I’m looking to collaborate on**  
-Innovative full-stack projects, particularly those focusing on React, Node.js, and AWS integration. If you're building something exciting in web development or cloud solutions, let's connect!
+Projects that require expertise in React.js, REST API integration, and responsive UI/UX designs. If you're innovating in scalable web applications or video platform development, let’s collaborate!
 
 🤝 **I’m looking for help with**  
-Exploring advanced cloud technologies and enhancing my expertise in DevOps practices. If you're an expert in AWS or similar platforms, I'd love to learn from your experience.
+Expanding my expertise in backend development and cloud-based solutions. Insights into advanced API security and optimization techniques are especially welcome.
 
 🌱 **I’m currently learning**  
-Advanced Web APIs, optimizing database management with MongoDB and SQL, and diving deeper into modern backend frameworks like Django. I'm also keeping up with the latest trends in startup technologies and software architecture.
+Real-time data integration techniques, advanced database management using MongoDB and MySQL, and refining my understanding of backend frameworks like Node.js and Express.
 
 💬 **Ask me about**  
-React.js, Redux, building scalable applications, or debugging complex system architectures. With a solid background in technical support engineering, I'm always happy to share insights and tips.
+React.js, Redux, REST API integration, or creating responsive and modern web applications. With hands-on experience in building platforms like OneSpot.tv, I can share valuable insights into user-centric development.
 
 ⚡ **Fun fact**  
-I thrive on staying updated with the latest startup trends and emerging technologies. My journey from technical support to full-stack development reflects my passion for continuous growth and problem-solving.
+I’m passionate about turning ideas into impactful digital solutions, as shown by my journey from education to hands-on development roles. My portfolio showcases a mix of innovative projects and real-world applications.
 
 ---
 
