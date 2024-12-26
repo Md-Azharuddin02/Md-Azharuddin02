@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Md-Azharuddin02
-- 👀 I’m interested in Web development
-- 🌱 I’m working as a Technical support Engineer at MandSConsulting.
-- 📫 email:- mdazharuddin155332@gmail.com, phone:-7282845498
+Passionate Full Stack Developer with expertise in React.js, JavaScript, and Redux, currently building dynamic web applications at M&S Consulting. Skilled in crafting scalable, high-performance user interfaces and solving complex technical challenges. Proficient in React, Node.js, SQL, AWS, and Web APIs, with a strong foundation in data structures and web development. Enthusiast of cutting-edge technologies, startup trends, and continuous learning.
 
-<!---
-Md-Azharuddin02/Md-Azharuddin02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Skills:
+
+Languages: JavaScript, Python, C, Java, Node.js
+Web Development: React.js, Redux, HTML5, CSS3, Bootstrap, Django, Rest APIs
+Databases: MySQL, MongoDB
+Cloud & Tools: AWS, Splunk, SQL Server, Git
+
+🌐 Socials:
+[Behance](https://behance.net/Md Azharuddin) LinkedIn
+
+💻 Tech Stack:
+CSS3 C HTML5 Java JavaScript Bootstrap Django Express.js EJS JWT NodeJS Nodemon React Socket.io MySQL MongoDB Git GitHub Jira Postman
+
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md Azharuddin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Md Azharuddin&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md Azharuddin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=Md Azharuddin&icon=0&color=0)
