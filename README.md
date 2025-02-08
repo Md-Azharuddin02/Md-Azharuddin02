@@ -38,8 +38,9 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazharuddin02/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazharuddin02/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?style=flat&logo=githubpages&logoColor=black)](https://md-azharuddin02.github.io/Portfolio)
+
 
 ---
 
