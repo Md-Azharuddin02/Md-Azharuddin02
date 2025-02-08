@@ -69,16 +69,13 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAzharuddin&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzharuddin&theme=dark&hide_border=false)
 
-
----
-
+--- 
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 
 ---
 
