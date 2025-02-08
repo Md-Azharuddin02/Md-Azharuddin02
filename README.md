@@ -76,7 +76,7 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MdZikrullah&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 ---
