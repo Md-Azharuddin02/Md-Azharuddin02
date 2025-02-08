@@ -69,8 +69,9 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 ---
 
 # 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzharuddin&theme=dark&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzharuddin&theme=dark&hide_border=true)
 
 --- 
 
