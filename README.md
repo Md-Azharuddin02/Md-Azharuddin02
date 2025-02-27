@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **I’m currently working on**  
-Designing and implementing dynamic, user-friendly web interfaces as a Software Engineer at M&S Consulting. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
+Designing and implementing dynamic, user-friendly web interfaces as a Software Developer at M&S Consulting. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
 
 👯 **I’m looking to collaborate on**  
 Projects that require expertise in React.js, REST API integration, and responsive UI/UX designs. If you're innovating in scalable web applications or video platform development, let’s collaborate!
@@ -13,7 +13,7 @@ Expanding my expertise in backend development and cloud-based solutions. Insight
 Real-time data integration techniques, advanced database management using MongoDB and MySQL, and refining my understanding of backend frameworks like Node.js and Express.
 
 💬 **Ask me about**  
-React.js, Redux, REST API integration, or creating responsive and modern web applications. With hands-on experience in building platforms like OneSpot.tv, I can share valuable insights into user-centric development.
+React.js, Redux, REST API development and integration, or creating responsive, Optimized and modern web applications. With hands-on experience in building platforms like Bigbowl and OneSpot.tv, I can share valuable insights into user-centric development.
 
 ⚡ **Fun fact**  
 I’m passionate about turning ideas into impactful digital solutions, as shown by my journey from education to hands-on development roles. My portfolio showcases a mix of innovative projects and real-world applications.
@@ -23,10 +23,10 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 ### 🚀 Technical Skills:
 **Languages:**  
-- JavaScript, Python, C, Java, Node.js  
+- JavaScript, TypeScript, Node.js, C, Java, 
 
 **Web Development:**  
-- React.js, Redux, HTML5, CSS3, Bootstrap, Django, REST APIs  
+- React.js, Redux, Next.JS HTML5, CSS3, Bootstrap, TailwindCSS Django, REST APIs  
 
 **Databases:**  
 - MySQL, MongoDB  
