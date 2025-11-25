@@ -22,8 +22,8 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 ## 🔥 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Clay&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Clay&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=md-azharuddin02&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=md-azharuddin02&layout=compact&theme=tokyonight" />
 </p>
 
 
