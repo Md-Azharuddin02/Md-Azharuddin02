@@ -1,36 +1,14 @@
-# 💫 About Me
-
-🔭 **I’m currently working on**  
-Designing and implementing dynamic, user-friendly web interfaces as a Software Developer at M&S Consulting. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
-
-👯 **I’m looking to collaborate on**  
-Projects that require expertise in React.js, REST API integration, and responsive UI/UX designs. If you're innovating in scalable web applications or video platform development, let’s collaborate!
-
-🤝 **I’m looking for help with**  
-Expanding my expertise in backend development and cloud-based solutions. Insights into advanced API security and optimization techniques are especially welcome.
-
-🌱 **I’m currently learning**  
-Real-time data integration techniques, advanced database management using MongoDB and MySQL, and refining my understanding of backend frameworks like Node.js and Express.
-
-💬 **Ask me about**  
-React.js, Redux, REST API development and integration, or creating responsive, Optimized and modern web applications. With hands-on experience in building platforms like Bigbowl and OneSpot.tv, I can share valuable insights into user-centric development.
-
-⚡ **Fun fact**  
-I’m passionate about turning ideas into impactful digital solutions, as shown by my journey from education to hands-on development roles. My portfolio showcases a mix of innovative projects and real-world applications.
-
 ---
 
-<h1 align="center">Hi 👋 I'm Clay.</h1>
+<h1 align="center">Hi 👋 I'm Md Azharuddin.</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="[https://linkedin.com/](https://www.linkedin.com/in/mdazharuddin02/)"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://twitter.com/"> <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
   <a href="#"> <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=hashnode&logoColor=white" /> </a>
 </p>
 
 ---
-
-## 📝 About Me
 
 I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about building scalable web applications.
 
