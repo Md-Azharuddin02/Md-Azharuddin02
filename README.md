@@ -22,25 +22,10 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 ## 🔥 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-mu-blush.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-mu-blush.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-## 📫 Connect with Me
-
-- Email: yourmail@example.com  
-- Portfolio: yourwebsite.com  
-
----
-
-
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazharuddin02/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?style=flat&logo=githubpages&logoColor=black)](https://md-azharuddin02.github.io/Portfolio)
 
 
 ---
