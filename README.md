@@ -4,7 +4,9 @@
 <p align="center">
   <a href="[https://linkedin.com/](https://www.linkedin.com/in/mdazharuddin02/)"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://twitter.com/"> <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-  <a href="#"> <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=hashnode&logoColor=white" /> </a>
+  <a href="https://portfolio-tech-tan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mdazharuddin155332@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </p>
 
 ---
@@ -69,22 +71,6 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 ---
 
 
-
-
-### 🚀 Technical Skills:
-**Languages:**  
-- JavaScript, TypeScript, Node.js, C, Java, 
-
-**Web Development:**  
-- React.js, Redux, Next.JS HTML5, CSS3, Bootstrap, TailwindCSS Django, REST APIs  
-
-**Databases:**  
-- MySQL, MongoDB  
-
-**Cloud & Tools:**  
-- AWS, Splunk, SQL Server, Git  
-
----
 
 ## 🌐 Connect with Me:
 
