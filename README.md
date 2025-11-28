@@ -107,12 +107,13 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <!-- Achievements (4th Card) -->
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&row=1&column=4" />
+  <!-- Activity Graph (4th Card) -->
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
+
 
 
 
