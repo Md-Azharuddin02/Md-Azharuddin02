@@ -1,23 +1,26 @@
-<h1 align="center">
+<!-- Title without thin line -->
+<h1 align="center" style="border-bottom: none; margin-bottom: 10px;">
   Hi there, I'm Md Azharuddin
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdazharuddin02/">
+<!-- Social Icons with spacing -->
+<p align="center" style="margin-top: 15px;">
+  <a href="https://www.linkedin.com/in/mdazharuddin02/" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Md_Azharuddin02">
+  <a href="https://x.com/Md_Azharuddin02" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://portfolio-tech-tan.vercel.app">
+  <a href="https://portfolio-tech-tan.vercel.app" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-<h2>🧩 About Me</h2>
+<!-- About Me heading without thin line -->
+<h3 style="border-bottom: none;">🧩 About Me</h3>
 
 <p>
 Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scalable, and production-ready web applications.
@@ -33,7 +36,8 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <br/>
 
-<h2>🔥 GitHub Stats</h2>
+<!-- GitHub Stats heading without thin line -->
+<h3 style="border-bottom: none;">🔥 GitHub Stats</h3>
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
 
@@ -49,7 +53,8 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <br/>
 
-<h2>🧰 Tech Stack</h2>
+<!-- Tech Stack heading -->
+<h3 style="border-bottom: none;">🧰 Tech Stack</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
@@ -76,7 +81,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-  <!-- DevOps / Cloud -->
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -91,14 +96,14 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <br/>
 
-<h2>🏆 GitHub Trophies</h2>
+<h3 style="border-bottom: none;">🏆 GitHub Trophies</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 <br/>
 
-<h2>✍️ Quote</h2>
+<h3 style="border-bottom: none;">✍️ Quote</h3>
 <p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
 
 <p align="center">
