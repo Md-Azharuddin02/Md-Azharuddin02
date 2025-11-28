@@ -15,18 +15,25 @@
   </a>
 </p>
 
-## 🧩 About Me
+<br/>
 
-Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
+<h2>🧩 About Me</h2>
 
-- 🧠 Strong in **React, Next.js, Node.js, Express & MongoDB**
-- ⚙️ Designing **REST APIs, authentication, and server-side logic**
-- 🏗️ Skilled in **component architecture & state management**
-- 🤖 Exploring **AI automation & agent workflows**
-- 📚 Passionate about simplifying complex topics for developers
+<p>
+Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scalable, and production-ready web applications.
+</p>
 
+<ul>
+  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
+  <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
+  <li>🏗️ Skilled in <b>component architecture & state management</b></li>
+  <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
+  <li>📚 Passionate about simplifying complex topics for developers</li>
+</ul>
 
-## 🔥 GitHub Stats
+<br/>
+
+<h2>🔥 GitHub Stats</h2>
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
 
@@ -40,8 +47,9 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 </div>
 
+<br/>
 
-## 🧰 Tech Stack
+<h2>🧰 Tech Stack</h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
@@ -81,15 +89,18 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 </div>
 
+<br/>
 
-## 🏆 GitHub Trophies  
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
-## ✍️ Quote  
+<br/>
+
+<h2>✍️ Quote</h2>
 <p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square" alt="profile views"/>
+  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" alt="profile views"/>
 </p>
