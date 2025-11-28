@@ -97,16 +97,23 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 ## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  
+
+  <!-- Main Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
 
+  <!-- Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
 
+  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- Achievements (4th Card) -->
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&row=1&column=4" />
 
 </div>
 
 ---
+
 
 
 ## 🏆 GitHub Trophies:
