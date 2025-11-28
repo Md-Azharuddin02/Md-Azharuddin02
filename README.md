@@ -115,6 +115,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-25-38bdf8?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=rule34" />
 </p>
+
 
