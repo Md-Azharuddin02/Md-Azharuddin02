@@ -36,15 +36,12 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
   <li>📚 Passionate about simplifying complex topics for developers</li>
 </ul>
-
     </td>
-
-    <td align="right">
+    <td align="right" width="350">
       <img 
         alt="Coder GIF" 
         height="250" 
-        width="350" 
-        src="https://magiccopy.xyz/assets/images/hadder.gif" 
+        src="https://magiccopy.xyz/assets/images/hadder.gif"
       />
     </td>
   </tr>
