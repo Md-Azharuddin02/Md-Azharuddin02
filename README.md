@@ -17,7 +17,6 @@
   </a>
 </p>
 
-
 <br/>
 <table>
   <tr>
@@ -42,32 +41,10 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
     </td>
   </tr>
 </table>
-
-
 <br/>
-
-<!-- About Me heading without thin line -->
-<h3 style="border-bottom: none;">🧩 About Me</h3>
-
-<p>
-Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scalable, and production-ready web applications.
-</p>
-
-<ul>
-  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
-  <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
-  <li>🏗️ Skilled in <b>component architecture & state management</b></li>
-  <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
-  <li>📚 Passionate about simplifying complex topics for developers</li>
-</ul>
-
-<br/>
-
-
-
 
 <!-- GitHub Stats heading without thin line -->
-### 🔥 GitHub Stats
+<h3 style="border-bottom: none; align="center""  >🔥 GitHub Stats<h3/>
 <div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
       <img height="170" src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
@@ -77,7 +54,6 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <!-- Tech Stack heading -->
 <h3 style="border-bottom: none;">🧰 Tech Stack</h3>
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <!-- Languages -->
