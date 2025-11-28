@@ -95,11 +95,9 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
 </div>
 
 <br/>
-
 
 <h3 style="border-bottom: none;">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -116,6 +114,10 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ninja Visitors-247-black?style=for-the-badge&logo=nintendo&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=300&lines=247+Visitors" />
 </p>
 
 
