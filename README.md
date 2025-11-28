@@ -139,3 +139,8 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 <p align="center">
   <img src="https://img.shields.io/badge/Ninja_Visitors-247-000000?style=for-the-badge&logo=codersrank&logoColor=white&labelColor=1f2937" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-247-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+</p>
+
