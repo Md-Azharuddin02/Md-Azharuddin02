@@ -109,8 +109,11 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 <br/>
 
 <h3 style="border-bottom: none;">✍️ Quote</h3>
-<p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" alt="profile views"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=1E90FF" />
 </p>
