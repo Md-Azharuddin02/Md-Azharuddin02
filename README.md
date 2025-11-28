@@ -119,16 +119,33 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-25-38bdf8?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=38bdf8" />
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=moeboy" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-25-white?style=for-the-badge&labelColor=1a1b27&color=38bdf8" />
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=samurai" />
 </p>
 
 <p align="center">
-  <img width="350" src="https://img.shields.io/static/v1?label=PROFILE%20VIEWS&message=25&color=1a1b27&labelColor=0d1117&style=flat-square" />
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=cyberpunk" />
 </p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=classic" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=minecraft" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=ninja" />
+</p>
+
+
+
+
+
 
 
 
