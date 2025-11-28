@@ -19,6 +19,39 @@
 
 
 <br/>
+<table>
+  <tr>
+    <td>
+
+<h3 style="border-bottom: none;">🧩 About Me</h3>
+
+<p>
+Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scalable, and production-ready web applications.
+</p>
+
+<ul>
+  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
+  <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
+  <li>🏗️ Skilled in <b>component architecture & state management</b></li>
+  <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
+  <li>📚 Passionate about simplifying complex topics for developers</li>
+</ul>
+
+    </td>
+
+    <td align="right">
+      <img 
+        alt="Coder GIF" 
+        height="250" 
+        width="350" 
+        src="https://magiccopy.xyz/assets/images/hadder.gif" 
+      />
+    </td>
+  </tr>
+</table>
+
+
+<br/>
 
 <!-- About Me heading without thin line -->
 <h3 style="border-bottom: none;">🧩 About Me</h3>
@@ -28,7 +61,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <ul>
-  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>      <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
   <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
   <li>🏗️ Skilled in <b>component architecture & state management</b></li>
   <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
@@ -36,6 +69,9 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </ul>
 
 <br/>
+
+
+
 
 <!-- GitHub Stats heading without thin line -->
 ### 🔥 GitHub Stats
