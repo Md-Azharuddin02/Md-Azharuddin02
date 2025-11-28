@@ -126,5 +126,9 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://img.shields.io/badge/Profile_Views-25-white?style=for-the-badge&labelColor=1a1b27&color=38bdf8" />
 </p>
 
+<p align="center">
+  <img width="350" src="https://img.shields.io/static/v1?label=PROFILE%20VIEWS&message=25&color=1a1b27&labelColor=0d1117&style=flat-square" />
+</p>
+
 
 
