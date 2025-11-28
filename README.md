@@ -5,8 +5,9 @@
 
 <!-- ✨ Glow Divider -->
 <p align="center">
-  <img src="https://github.com/Th3Wall/assets/raw/main/images/icons/lineBar.png" width="300px" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
 </p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
