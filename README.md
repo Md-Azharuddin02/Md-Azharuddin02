@@ -12,7 +12,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me  
 Full Stack Developer passionate about building scalable applications, exploring AI agents, and mastering modern web technologies.
@@ -21,9 +20,8 @@ Full Stack Developer passionate about building scalable applications, exploring 
 - 🤖 Exploring AI automation & agent workflows  
 - ✍️ Sharing knowledge and helping developers grow  
 
----
 
-## 🔥 GitHub Stats (Clean 4-Card Grid)
+## 🔥 GitHub Stats
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
 
@@ -37,7 +35,6 @@ Full Stack Developer passionate about building scalable applications, exploring 
 
 </div>
 
----
 
 ## 🧰 Tech Stack  
 <p align="center">
@@ -77,22 +74,20 @@ Full Stack Developer passionate about building scalable applications, exploring 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
----
 
 ## ✍️ Random Developer Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MdAzharuddin&icon=1&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=Md-Azharuddin02&icon=1&color=6" />
 </p>
+
