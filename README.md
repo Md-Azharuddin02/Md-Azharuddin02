@@ -1,10 +1,20 @@
 <!-- 🔥 Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Automation+%26+Agents" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Automation+%26+Agents" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Md Azharuddin</h1>
+<!-- 👋 Animated Header -->
+<h1 align="center">
+  Hi there, I'm Md Azharuddin
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
+<!-- ✨ Glow Divider -->
+<p align="center">
+  <img src="https://github.com/Th3Wall/assets/raw/main/images/icons/lineBar.png" width="300px" />
+</p>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,6 +27,10 @@
   </a>
 </p>
 
+<!-- ⚡ Second Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EE7B7&center=true&width=500&lines=Open+Source+Contributor;Backend+Architect;Cloud+Deployment+Enthusiast;Tech+Educator" />
+</p>
 
 ---
 
@@ -29,24 +43,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 - 🏗️ Skilled in **component architecture & state management**
 - 🤖 Exploring **AI automation & agent workflows**
 - 📚 Passionate about simplifying complex topics for developers
-
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **AI Chat Assistant**  
-Full-stack chat system with streaming responses, memory, and OpenAI integration.  
-**Tech:** Next.js, Node.js, Tailwind, WebSockets  
-🔗 Demo: _Add when ready_  
-
----
-
-### 📦 **MERN Task Manager**  
-JWT-secured CRUD task manager with roles & permissions.  
-**Tech:** React, Node, Express, MongoDB, JWT  
-🔗 Repo: _Add when ready_  
-
 
 ---
 
@@ -63,7 +59,6 @@ JWT-secured CRUD task manager with roles & permissions.
   <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 
 ---
 
@@ -94,7 +89,7 @@ JWT-secured CRUD task manager with roles & permissions.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-  <!-- DevOps / Cloud / Tools -->
+  <!-- DevOps / Cloud -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -107,26 +102,12 @@ JWT-secured CRUD task manager with roles & permissions.
 
 </div>
 
-
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:mdazharuddin021@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/mdazharuddin02/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/Md_Azharuddin02"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://portfolio-tech-tan.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-</p>
-
 
 ---
 
