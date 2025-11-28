@@ -91,25 +91,24 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 <!-- UI / Editors -->
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
 </p>
-
 
 ---
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-mu-blush.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-two-murex.vercel.app/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-mu-blush.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
---- 
+---
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
