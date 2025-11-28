@@ -106,11 +106,6 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Azharuddin02/Md-Azharuddin02/main/assets/skill-graph.svg" width="700" />
-</p>
-
-
 <br/>
 
 <h3 style="border-bottom: none;">✍️ Quote</h3>
