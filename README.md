@@ -126,10 +126,10 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img width="160" src="https://img.shields.io/badge/Profile_Views-25-38bdf8?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=38bdf8" />
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-icon-badges/master/badges/profile-views-25.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=blue" />
 </p>
+
 
 
 
