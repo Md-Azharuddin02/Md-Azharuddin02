@@ -19,6 +19,12 @@
 
 <br/>
 
+
+<p align="center">
+  <img src="https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <!-- About Me heading without thin line -->
 <h3 style="border-bottom: none;">🧩 About Me</h3>
 
