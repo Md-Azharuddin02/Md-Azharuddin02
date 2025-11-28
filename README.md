@@ -28,7 +28,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <ul>
-  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
+  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>      <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
   <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
   <li>🏗️ Skilled in <b>component architecture & state management</b></li>
   <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
