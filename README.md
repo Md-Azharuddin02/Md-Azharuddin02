@@ -8,12 +8,6 @@
   Hi there, I'm Md Azharuddin
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-
-<!-- ✨ Glow Divider -->
-<p align="center">
-  <img src="https://github.com/Th3Wall/assets/raw/main/images/icons/lineBar.png" width="300px" />
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
@@ -115,5 +109,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 <p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square" alt="profile views"/>
+  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" alt="profile views" />
 </p>
+
