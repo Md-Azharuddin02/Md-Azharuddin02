@@ -86,8 +86,8 @@ Full Stack Developer passionate about building scalable applications, exploring 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Md-Azharuddin02&icon=1&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square" alt="profile views"/>
 </p>
+
 
