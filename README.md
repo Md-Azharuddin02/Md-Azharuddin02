@@ -1,9 +1,3 @@
-<!-- 🔥 Animated Intro Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Automation+%26+Agents" />
-</p>
-
-<!-- 👋 Animated Header -->
 <h1 align="center">
   Hi there, I'm Md Azharuddin
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -13,7 +7,6 @@
 <p align="center">
   <img src="https://github.com/Th3Wall/assets/raw/main/images/icons/lineBar.png" width="300px" />
 </p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
@@ -27,13 +20,6 @@
   </a>
 </p>
 
-<!-- ⚡ Second Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EE7B7&center=true&width=500&lines=Open+Source+Contributor;Backend+Architect;Cloud+Deployment+Enthusiast;Tech+Educator" />
-</p>
-
----
-
 ## 🧩 About Me
 
 Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
@@ -44,7 +30,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 - 🤖 Exploring **AI automation & agent workflows**
 - 📚 Passionate about simplifying complex topics for developers
 
----
 
 ## 🔥 GitHub Stats
 
@@ -60,7 +45,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 </div>
 
----
 
 ## 🧰 Tech Stack
 
@@ -102,7 +86,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies  
 <p align="center">
