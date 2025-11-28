@@ -2,13 +2,10 @@
   Hi there, I'm Md Azharuddin
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-
-<!-- ✨ Glow Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
