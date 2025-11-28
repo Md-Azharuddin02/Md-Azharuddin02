@@ -115,5 +115,6 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=1E90FF" />
+  <img src="https://img.shields.io/badge/Profile%20Views-25-38bdf8?style=for-the-badge&labelColor=1a1b27" />
 </p>
+
