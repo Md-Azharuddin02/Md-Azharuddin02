@@ -5,7 +5,7 @@
 </h1>
 
 <!-- Social Icons with spacing -->
-<p align="center" style="margin-top: 15px;">
+<p align="center" style="margin-top: 15px; gap;10px">
   <a href="https://www.linkedin.com/in/mdazharuddin02/" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
