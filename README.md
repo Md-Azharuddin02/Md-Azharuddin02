@@ -19,12 +19,6 @@
 
 <br/>
 
-
-<p align="center">
-  <img src="https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <!-- About Me heading without thin line -->
 <h3 style="border-bottom: none;">🧩 About Me</h3>
 
@@ -105,6 +99,21 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </div>
 
 <br/>
+
+
+
+
+<p align="center">
+  <img src="./assets/skill-graph.svg" alt="Full-Stack Skill Graph" />
+</p>
+
+
+
+
+
+
+
+
 
 <h3 style="border-bottom: none;">🏆 GitHub Trophies</h3>
 <p align="center">
