@@ -1,3 +1,8 @@
+<!-- 🔥 Animated Intro Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Automation+%26+Agents" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Md Azharuddin</h1>
 
 <p align="center">
@@ -13,17 +18,37 @@
 </p>
 
 
+---
+
 ## 🧩 About Me
 
 Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
 
 - 🧠 Strong in **React, Next.js, Node.js, Express & MongoDB**
-- ⚙️ Comfortable designing **REST APIs, auth flows, and scalable backend logic**
-- 🏗️ Experienced with **state management, component architecture & UI engineering**
-- 🤖 Currently exploring **AI automation, agent workflows & integration in full-stack apps**
-- 📚 I enjoy documenting, simplifying, and helping other developers grow
- 
+- ⚙️ Designing **REST APIs, authentication, and server-side logic**
+- 🏗️ Skilled in **component architecture & state management**
+- 🤖 Exploring **AI automation & agent workflows**
+- 📚 Passionate about simplifying complex topics for developers
 
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 **AI Chat Assistant**  
+Full-stack chat system with streaming responses, memory, and OpenAI integration.  
+**Tech:** Next.js, Node.js, Tailwind, WebSockets  
+🔗 Demo: _Add when ready_  
+
+---
+
+### 📦 **MERN Task Manager**  
+JWT-secured CRUD task manager with roles & permissions.  
+**Tech:** React, Node, Express, MongoDB, JWT  
+🔗 Repo: _Add when ready_  
+
+
+---
 
 ## 🔥 GitHub Stats
 
@@ -39,6 +64,8 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 </div>
 
+
+---
 
 ## 🧰 Tech Stack
 
@@ -81,19 +108,31 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 </div>
 
 
+---
+
 ## 🏆 GitHub Trophies  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 
-## ✍️ Random Developer Quote  
+---
+
+## 📬 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="mailto:mdazharuddin021@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mdazharuddin02/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/Md_Azharuddin02"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://portfolio-tech-tan.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
+
+
+---
+
+## ✍️ Quote  
+<p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square" alt="profile views"/>
 </p>
-
-
