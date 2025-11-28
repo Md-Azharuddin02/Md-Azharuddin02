@@ -118,4 +118,18 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=rule34" />
 </p>
 
+<p align="center">
+  <img width="320" src="https://img.shields.io/static/v1?label=Profile%20Views&message=25&color=1a1b27&labelColor=0d1117&style=flat-square" />
+</p>
+
+<p align="center">
+  <img width="160" src="https://img.shields.io/badge/Profile_Views-25-38bdf8?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=38bdf8" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-icon-badges/master/badges/profile-views-25.svg" />
+</p>
+
+
 
