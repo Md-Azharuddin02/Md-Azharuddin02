@@ -1,8 +1,3 @@
-<!-- 🔥 Animated Intro Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Automation+%26+Agents" />
-</p>
-
 <!-- 👋 Animated Header -->
 <h1 align="center">
   Hi there, I'm Md Azharuddin
@@ -20,13 +15,6 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-<!-- ⚡ Second Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EE7B7&center=true&width=500&lines=Open+Source+Contributor;Backend+Architect;Cloud+Deployment+Enthusiast;Tech+Educator" />
-</p>
-
----
 
 ## 🧩 About Me
 
