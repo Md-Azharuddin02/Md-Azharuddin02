@@ -2,12 +2,17 @@
 <h1 align="center">Hi 👋 I'm Md Azharuddin.</h1>
 
 <p align="center">
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/mdazharuddin02/)"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="[https://twitter.com/](https://x.com/Md_Azharuddin02)"> <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-<a href="https://portfolio-tech-tan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:mdazharuddin155332@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+  <a href="https://www.linkedin.com/in/mdazharuddin02/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Md_Azharuddin02">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://portfolio-tech-tan.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
