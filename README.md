@@ -113,34 +113,5 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ninja Visitors-247-black?style=for-the-badge&logo=nintendo&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=300&lines=247+Visitors" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Visitors-247-000000?style=for-the-badge&logo=gnubash&logoColor=38BDF8&labelColor=1a1a1a" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/247_Visitors-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-247-white?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff20&color=ffffff10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/247_Visitors-Gradient-?style=for-the-badge&logo=github&logoColor=white&color=06b6d4&labelColor=1f2937" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ninja_Visitors-247-000000?style=for-the-badge&logo=codersrank&logoColor=white&labelColor=1f2937" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-247-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
-</p>
-
