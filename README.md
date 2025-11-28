@@ -5,17 +5,18 @@
 </h1>
 
 <!-- Social Icons with spacing -->
-<p align="center" style="margin-top: 15px; gap;10px">
-  <a href="https://www.linkedin.com/in/mdazharuddin02/" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdazharuddin02/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 12px;" />
   </a>
-  <a href="https://x.com/Md_Azharuddin02" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/Md_Azharuddin02">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin: 0 12px;" />
   </a>
-  <a href="https://portfolio-tech-tan.vercel.app" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://portfolio-tech-tan.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 0 12px;" />
   </a>
 </p>
+
 
 <br/>
 
