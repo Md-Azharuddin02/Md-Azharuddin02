@@ -118,34 +118,96 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=rule34" />
 </p>
 
+<!-- ====================== -->
+<!-- 🎯 VISITOR COUNTER PACK -->
+<!-- ====================== -->
+
+<!-- 1️⃣ Retro Pixel Robot Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=moeboy" />
+  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" />
 </p>
 
+---
+
+<!-- 2️⃣ Retro Arcade Scoreboard -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=samurai" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=yellow" />
 </p>
 
+---
+
+<!-- 3️⃣ Terminal / Hacker Counter (Replace USER_ID if needed) -->
+<!-- (Ask ChatGPT for your GitHub User ID and replace it here) -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=cyberpunk" />
+  <img src="https://hit.yhype.me/github/profile?user_id=00000000" />
 </p>
 
+---
+
+<!-- 4️⃣ Shield Badge Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=classic" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=for-the-badge&color=blueviolet" />
 </p>
 
+---
+
+<!-- 5️⃣ Simple Clean Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" />
+</p>
+
+---
+
+<!-- 6️⃣ Minecraft Pixel Counter -->
 <p align="center">
   <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=minecraft" />
 </p>
 
+---
+
+<!-- 7️⃣ Cyberpunk Neon Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=ninja" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=ff10f0" />
 </p>
 
+---
 
+<!-- 8️⃣ Hacker Green Terminal Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=00ff00" />
+</p>
 
+---
 
+<!-- 9️⃣ Blue Minimal Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat&color=00bfff" />
+</p>
 
+---
 
+<!-- 🔟 Gradient Glass Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=plastic&color=18a1ff" />
+</p>
 
+---
 
+<!-- 1️⃣1️⃣ Badge + Emoji Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&label=Visitors&style=for-the-badge&color=ff5733" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- ⭐ CUSTOM MALE PIXEL COUNTER -->
+<!-- (I will generate it for you if you choose a style) -->
+<!-- ========================= -->
+
+<!-- Example Placeholder -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=moebooru" />
+</p>
+
+<!-- Ask ChatGPT to replace with a real male pixel version -->
