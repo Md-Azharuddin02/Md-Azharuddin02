@@ -120,5 +120,9 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=300&lines=247+Visitors" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-247-000000?style=for-the-badge&logo=gnubash&logoColor=38BDF8&labelColor=1a1a1a" />
+</p>
+
 
 
