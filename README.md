@@ -2,9 +2,6 @@
   Hi there, I'm Md Azharuddin
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
@@ -89,8 +86,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
----
 
 ## ✍️ Quote  
 <p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
