@@ -96,17 +96,16 @@ I am a Full Stack Developer, Tech Enthusiast & Problem Solver passionate about b
 ---
 ## 📊 GitHub Stats:
 
-<p align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
+
 ---
 
 
