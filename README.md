@@ -122,3 +122,99 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
   <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=ninja" />
 </p>
 
+<!-- 1️⃣ Rule34 (original anime counter) -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=rule34" />
+</p>
+
+<!-- 2️⃣ Moebooru -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=moebooru" />
+</p>
+
+<!-- 3️⃣ Ninja -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=ninja" />
+</p>
+
+<!-- 4️⃣ Robot -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=robot" />
+</p>
+
+<!-- 5️⃣ Cyberpunk -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=cyberpunk" />
+</p>
+
+<!-- 6️⃣ Zombie -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=zombie" />
+</p>
+
+<!-- 7️⃣ Neko / Pixel Cat -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=neko" />
+</p>
+
+<!-- 8️⃣ Wizard -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=wizard" />
+</p>
+
+<!-- 9️⃣ Minecraft -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=minecraft" />
+</p>
+
+<!-- 🔟 Developer / Pixel Coder -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=dev" />
+</p>
+
+<!-- 1️⃣1️⃣ Pirate -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=pirate" />
+</p>
+
+<!-- 1️⃣2️⃣ Space / Astronaut -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Md-Azharuddin02?theme=space" />
+</p>
+
+<!-- 1️⃣3️⃣ Pixel Robot (Glitch Counter) -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Md-Azharuddin02/count.svg" />
+</p>
+
+<!-- 1️⃣4️⃣ Flat Square Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=yellow" />
+</p>
+
+<!-- 1️⃣5️⃣ Hacker Green -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=00ff00" />
+</p>
+
+<!-- 1️⃣6️⃣ Neon Pink -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat-square&color=ff10f0" />
+</p>
+
+<!-- 1️⃣7️⃣ Blue Minimal -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=flat&color=00bfff" />
+</p>
+
+<!-- 1️⃣8️⃣ Gradient Glass -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=plastic&color=18a1ff" />
+</p>
+
+<!-- 1️⃣9️⃣ Visitors Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&label=Visitors&style=for-the-badge&color=ff5733" />
+</p>
+
+
