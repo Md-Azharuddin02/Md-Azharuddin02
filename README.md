@@ -1,32 +1,46 @@
-<!-- 👋 Animated Header -->
+<!-- 🌈 Animated Gradient Title -->
 <h1 align="center">
-  Hi there, I'm Md Azharuddin
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md+Azharuddin+👋;MERN+Full+Stack+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB" />
 </h1>
-<!-- Social Links -->
+
+<!-- 🔗 Modern Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Md_Azharuddin02">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://portfolio-tech-tan.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
+<!-- Soft Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" width="200"/>
+</p>
+
+---
+
 ## 🧩 About Me
+
+<p align="center">
+  <img src="https://github.com/Th3Wall/assets/raw/main/images/icons/bullet.gif" width="40" />
+</p>
 
 Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
 
-- 🧠 Strong in **React, Next.js, Node.js, Express & MongoDB**
-- ⚙️ Designing **REST APIs, authentication, and server-side logic**
+- 🧠 **Strong in React, Next.js, Node.js, Express & MongoDB**
+- 🔐 Designing **REST APIs, authentication, and server-side logic**
 - 🏗️ Skilled in **component architecture & state management**
 - 🤖 Exploring **AI automation & agent workflows**
-- 📚 Passionate about simplifying complex topics for developers
+- ✨ Passionate about **writing clean, readable, maintainable code**
+- 📚 Enjoy simplifying complex concepts for developers
 
 ---
+
+
 
 ## 🔥 GitHub Stats
 
