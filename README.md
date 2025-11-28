@@ -104,8 +104,9 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 
 <p align="center">
-  <img src="./assets/skill-graph.svg" alt="Full-Stack Skill Graph" />
+  <img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200"><style>.t{font:600 18px%20sans-serif;fill:%23cde1ff}.l{font:400 13px%20sans-serif;fill:%23a7c6e7}.p{font:700 13px%20sans-serif;fill:%23cde1ff}.bg{fill:%230e1113}.barbg{fill:%231f2933;rx:6;ry:6}.bf{rx:6;ry:6}</style><rect x="6" y="6" width="688" height="188" rx="10" fill="#0e1113"/><rect x="10" y="10" width="680" height="180" rx="8" class="bg"/><text x="28" y="36" class="t">🕸 Full-Stack Skill Graph</text><text x="28" y="66" class="l">Frontend</text><rect x="120" y="50" width="520" height="22" class="barbg"/><rect x="120" y="50" width="390" height="22" fill="%2338bdf8" class="bf"/><text x="650" y="66" text-anchor="end" class="p">75%</text><text x="28" y="106" class="l">Backend</text><rect x="120" y="90" width="520" height="22" class="barbg"/><rect x="120" y="90" width="442" height="22" fill="%237c3aed" class="bf"/><text x="650" y="106" text-anchor="end" class="p">85%</text><text x="28" y="146" class="l">DevOps</text><rect x="120" y="130" width="520" height="22" class="barbg"/><rect x="120" y="130" width="208" height="22" fill="%2310b981" class="bf"/><text x="650" y="146" text-anchor="end" class="p">40%</text><text x="28" y="186" class="l">Database</text><rect x="120" y="170" width="520" height="22" class="barbg"/><rect x="120" y="170" width="364" height="22" fill="%23fb923c" class="bf"/><text x="650" y="186" text-anchor="end" class="p">70%</text></svg>' alt="skill graph"/>
 </p>
+
 
 
 
