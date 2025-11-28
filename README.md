@@ -13,12 +13,16 @@
 </p>
 
 
-## 👨‍💻 About Me  
-Full Stack Developer passionate about building scalable applications, exploring AI agents, and mastering modern web technologies.
+## 🧩 About Me
 
-- 🧠 Focused on MERN, React, Next.js & system design  
-- 🤖 Exploring AI automation & agent workflows  
-- ✍️ Sharing knowledge and helping developers grow  
+Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
+
+- 🧠 Strong in **React, Next.js, Node.js, Express & MongoDB**
+- ⚙️ Comfortable designing **REST APIs, auth flows, and scalable backend logic**
+- 🏗️ Experienced with **state management, component architecture & UI engineering**
+- 🤖 Currently exploring **AI automation, agent workflows & integration in full-stack apps**
+- 📚 I enjoy documenting, simplifying, and helping other developers grow
+ 
 
 
 ## 🔥 GitHub Stats
