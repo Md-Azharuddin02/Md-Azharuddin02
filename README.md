@@ -37,26 +37,26 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 <br/>
 
 <!-- GitHub Stats heading without thin line -->
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true"
-       width="45%" />
-
-  <img src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true"
-       width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true"
-       width="45%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true"
-       width="93%" />
-
+<h3 style="border-bottom: none;">🔥 GitHub Stats</h3>
+<div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    height="170em" 
+    src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true" 
+  />
 </div>
-
-
-
 <br/>
-
 <!-- Tech Stack heading -->
 <h3 style="border-bottom: none;">🧰 Tech Stack</h3>
 
