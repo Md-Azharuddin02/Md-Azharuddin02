@@ -38,7 +38,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </ul>
     </td>
     <td align="right" width="350">
-      <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+      <img alt="Coder GIF" height=250 width=350 src="https://i.imgur.com/qg5LnbA.gif" />
     </td>
   </tr>
 </table>
