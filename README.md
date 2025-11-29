@@ -50,6 +50,7 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
       <img height="170" src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true" /> 
       <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true" />
+  <div/>
 <br/>
 
 <!-- Tech Stack heading -->
