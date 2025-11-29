@@ -48,9 +48,13 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-  <!-- Simple GitHub Stats -->
+  <!-- Main Stats (mirror, stable) -->
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
+       src="https://readme-stats.clckblog.space/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=Md-Azharuddin02&theme=tokyonight&hide_border=true" />
 
   <!-- Top Languages -->
   <img height="170"
