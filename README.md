@@ -102,13 +102,15 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Azharuddin02&theme=tokyonight" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%; height: auto;" 
+  />
 </p>
-
 <br/>
 
 <h3 style="border-bottom: none;">✍️ Quote</h3>
