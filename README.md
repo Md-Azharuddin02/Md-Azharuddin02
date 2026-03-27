@@ -125,14 +125,14 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 ---
 
-### 🏆 GitHub Trophies
-
+### 🏆 Achievements
+ 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <img src="https://img.shields.io/github/followers/Md-Azharuddin02?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Md-Azharuddin02?label=Total%20Stars&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&affiliations=OWNER" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&labelColor=1c1917" />
 </p>
 
 ---
