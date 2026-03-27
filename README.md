@@ -52,7 +52,7 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
   />
   &nbsp;
@@ -66,7 +66,7 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
@@ -129,8 +129,9 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
     alt="GitHub Trophies"
+    width="100%"
   />
 </p>
 
