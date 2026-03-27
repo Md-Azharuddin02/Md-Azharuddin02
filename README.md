@@ -29,11 +29,12 @@ Full Stack Developer specializing in the <b>MERN stack</b>, building fast, scala
 </p>
 
 <ul>
-  <li>🧠 Strong in <b>React, Next.js, Node.js, Express & MongoDB</b></li>
-  <li>🔐 Designing <b>REST APIs, authentication, and server-side logic</b></li>
-  <li>🏗️ Skilled in <b>component architecture & state management</b></li>
-  <li>🤖 Exploring <b>AI automation & agent workflows</b></li>
-  <li>📚 Passionate about simplifying complex topics for developers</li>
+  <li>🧠 Strong in <b>React, Next.js, Redux, and performance optimization (SSR, code splitting)</b></li>
+<li>⚙️ Experienced in <b>Node.js, Express, and FastAPI for scalable REST API and microservices development</b></li>
+<li>🗄️ Proficient with <b>PostgreSQL & MongoDB (schema design, query optimization)</b></li>
+<li>🔐 Implemented <b>JWT authentication, RBAC, rate limiting, and secure backend architectures</b></li>
+<li>☁️ Hands-on with <b>AWS (S3, EC2), Docker, and CI/CD pipelines (GitHub Actions)</b></li>
+<li>📡 Built <b>real-time systems using WebSockets and optimized high-volume data handling</b></li>
 </ul>
     </td>
     <td align="right" width="350">
