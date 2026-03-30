@@ -70,7 +70,6 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true&area=true"
