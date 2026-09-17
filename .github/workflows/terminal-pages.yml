@@ -28,21 +28,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Get repository files
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      # 2. Configure GitHub Pages
-      - name: Configure GitHub Pages
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      # 3. Package the terminal folder
-      - name: Upload terminal artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload terminal
+        uses: actions/upload-pages-artifact@v4
         with:
           path: "./terminal"
 
-      # 4. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
