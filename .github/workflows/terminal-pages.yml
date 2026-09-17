@@ -21,6 +21,7 @@ concurrency:
 
 jobs:
   deploy:
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -28,17 +29,50 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # 1. Get repository files
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Setup GitHub Pages
+      # 2. Create a clean deployment directory
+      - name: Build Pages site
+        run: |
+          set -e
+
+          rm -rf dist
+          mkdir -p dist
+
+          cp terminal/index.html dist/index.html
+          cp terminal/terminal.css dist/terminal.css
+          cp terminal/terminal.js dist/terminal.js
+
+          echo "=============================="
+          echo "Files being deployed:"
+          echo "=============================="
+
+          find dist -maxdepth 1 -type f -print
+
+          echo "=============================="
+          echo "Checking index.html:"
+          echo "=============================="
+
+          test -f dist/index.html
+          test -f dist/terminal.css
+          test -f dist/terminal.js
+
+          grep -n "<title>" dist/index.html
+
+      # 3. Configure GitHub Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload terminal
+      # 4. Upload ONLY the terminal
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "./terminal"
+          path: ./dist
 
+      # 5. Deploy
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
