@@ -73,7 +73,7 @@ Full Stack Developer specializing in the MERN stack, focused on building fast, s
 
 <p align="center">
   <img
-    src="./profile/developer-terminal.svg"
+    src="https://raw.githubusercontent.com/Md-Azharuddin02/Md-Azharuddin02/main/profile/developer-terminal.svg"
     alt="Md Azharuddin Developer Terminal"
     width="90%"
   />
