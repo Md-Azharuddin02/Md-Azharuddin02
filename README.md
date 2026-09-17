@@ -69,7 +69,7 @@ Full Stack Developer specializing in the MERN stack, focused on building fast, s
 
 </table>
 
-💻 Developer Terminal
+## 💻 Developer Terminal
 
 <p align="center">
   <img
