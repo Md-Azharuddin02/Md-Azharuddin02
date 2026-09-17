@@ -42,62 +42,35 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
   </tr>
 </table>
 
----
-
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Md-Azharuddin02">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-      alt="Md Azharuddin's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Md-Azharuddin02">
-    <img
-      height="180"
-      src="https://streak-stats.demolab.com/?user=Md-Azharuddin02&theme=tokyonight&hide_border=true"
-      alt="Md Azharuddin's GitHub Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Md-Azharuddin02">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Azharuddin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-### 📈 GitHub Activity
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    alt="GitHub Activity Graph"
-    width="95%"
+    height="180"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="180"
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
   />
 </p>
 
-### 🏆 GitHub Trophies
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-    width="95%"
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
   />
 </p>
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Md-Azharuddin02/Md-Azharuddin02/output/github-contribution-grid-snake.svg"
+    src="./profile/contribution-snake.svg"
     alt="GitHub Contribution Snake"
     width="95%"
   />
@@ -107,14 +80,12 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&label=Profile%20Views&style=flat"
     alt="Profile Views"
   />
 </p>
 
 ---
-
-
 ### 🧰 Tech Stack
 
 <p align="center">
