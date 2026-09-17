@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  Building scalable, production-ready web applications, real-time systems,
-  REST APIs, and AI-powered solutions.
+  Building scalable, production ready web applications, real time systems,
+  REST APIs, and AI powered solutions.
 </p>
 
 <p align="center">
@@ -96,189 +96,111 @@ src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621c
 
 💻 Developer Terminal
 
-┌──────────────────────────────────────────────────────────────┐
-│  md-azharuddin ~/developer                                  │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  $ whoami                                                    │
-│  Md Azharuddin                                               │
-│                                                              │
-│  $ role                                                      │
-│  Full Stack Developer                                        │
-│                                                              │
-│  $ stack                                                     │
-│  React • Next.js • Node.js • Express • MongoDB • PostgreSQL │
-│                                                              │
-│  $ exploring                                                 │
-│  Python • FastAPI • RAG • LLMs • AI Agents • MCP            │
-│                                                              │
-│  $ status                                                    │
-│  ● Building & Learning                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-🛠️ What I Build
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Applications-0F172A?style=for-the-badge" alt="Full Stack Applications" />
-  <img src="https://img.shields.io/badge/Real--Time%20Systems-0F172A?style=for-the-badge" alt="Real Time Systems" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SaaS%20Platforms-0F172A?style=for-the-badge" alt="SaaS Platforms" />
-  <img src="https://img.shields.io/badge/AI--Powered%20Apps-0F172A?style=for-the-badge" alt="AI Powered Apps" />
-  <img src="https://img.shields.io/badge/Cloud%20Deployments-0F172A?style=for-the-badge" alt="Cloud Deployments" />
-</p>
-
-🌐 Full Stack Web Applications
-        ↓
-⚡ Real-Time Systems
-        ↓
-🔐 Secure REST APIs
-        ↓
-📊 Business & SaaS Platforms
-        ↓
-🤖 AI-Powered Applications
-        ↓
-☁️ Cloud-Ready Deployments
-
-🚀 What I'm Currently Exploring
+## 💻 Developer Terminal
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-    alt="Advanced React"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-    alt="Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-  />
-  <img
-    src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"
-    alt="RAG"
-  />
-  <img
-    src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge"
-    alt="LLM Applications"
-  />
-  <img
-    src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"
-    alt="AI Agents"
+    src="./profile/developer-terminal.svg"
+    alt="Md Azharuddin Developer Terminal"
+    width="90%"
   />
 </p>
 
-I'm currently expanding beyond the traditional MERN stack into Python, FastAPI, Generative AI, RAG, vector search, AI agents, and backend architecture.
+---
 
-🚀 Featured Projects
+## 🛠️ What I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-💬 Real-Time Chat Application
+### 🌐 Full-Stack Applications
 
-A WhatsApp-style real-time messaging application built with the MERN stack.
+Building production-ready web applications with modern frontend and backend architectures.
 
-Tech: React • Node.js • Express • MongoDB • Socket.IO • Redux
+**React · Next.js · Node.js · Express**
 
-⚡ Real-time messaging
+    </td>
 
-💬 Typing indicators
+    <td width="50%" valign="top">
 
-🤖 AI-powered conversations
+### ⚡ Real-Time Systems
 
-🔐 JWT authentication
+Building real-time experiences using WebSockets and Socket.IO.
 
-📡 WebSocket communication
+**WebSockets · Socket.IO · Redis**
 
-📱 Responsive interface
-
-🔗 Live Demo: Add your link
-💻 Source Code: Add your repository link
-
-</td>
-
-<td width="50%" valign="top">
-
-🏪 RetailOS
-
-A multi-tenant retail management platform designed for small businesses.
-
-Tech: React • Node.js • Express • MongoDB • AI
-
-📦 Inventory management
-
-🧾 Sales & purchase management
-
-🔎 Product search
-
-📊 Business dashboard
-
-🏷️ Barcode-oriented workflows
-
-🤖 AI-powered features
-
-🔗 Live Demo: Add your link
-💻 Source Code: Add your repository link
-
-</td>
-
+    </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
 
-💊 Pharmacy Management System
+### 🔐 Backend & APIs
 
-A practical pharmacy management solution focused on inventory and product management.
+Designing secure and scalable REST APIs with authentication, authorization, and rate limiting.
 
-Tech: Next.js • Node.js • MongoDB
+**Node.js · Express · FastAPI · JWT · RBAC**
 
-📦 Medicine inventory
+    </td>
 
-🔍 Product search
+    <td width="50%" valign="top">
 
-📱 Responsive UI
+### 📊 SaaS & Business Platforms
 
-🗺️ Business location integration
+Building practical software for inventory, retail, business workflows, and automation.
 
-💬 WhatsApp integration
+**MongoDB · PostgreSQL · REST APIs**
 
-🔗 Live Demo: Add your link
-💻 Source Code: Add your repository link
+    </td>
+  </tr>
 
-</td>
+  <tr>
+    <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+### 🤖 AI-Powered Applications
 
-🤖 AI / RAG Experiments
+Exploring applications powered by LLMs, RAG, vector search, and AI agents.
 
-Exploring practical applications of LLMs, RAG and AI-powered developer tools.
+**LLMs · RAG · Embeddings · AI Agents**
 
-Tech: Python • FastAPI • RAG • Vector DB • LLM APIs
+    </td>
 
-🧠 Retrieval Augmented Generation
+    <td width="50%" valign="top">
 
-🔎 Semantic search
+### ☁️ Cloud & DevOps
 
-🤖 LLM integration
+Deploying and maintaining applications using modern cloud and CI/CD workflows.
 
-⚙️ AI workflows
+**AWS · Docker · GitHub Actions · Vercel**
 
-🔗 API-based AI applications
-
-💻 Source Code: Add your repository link
-
-</td>
-
+    </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Currently Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi" alt="React Next.js Python FastAPI" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-Exploring-7C3AED?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20Search-Exploring-6D28D9?style=flat-square" alt="Vector Search" />
+<img src="https://img.shields.io/badge/LLM%20Applications-Building-111827?style=flat-square" alt="LLM Applications" />
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/MCP-Exploring-4F46E5?style=flat-square" alt="MCP" />
+
+</p>
+
+> Expanding beyond the MERN stack into **Python, FastAPI, Generative AI, RAG, vector search, AI agents, MCP, and backend architecture**.
+
+---
 
 🤖 AI Engineering Journey
 
@@ -520,108 +442,114 @@ Building practical AI applications while expanding beyond the traditional MERN s
   />
 </p>
 
-📈 My Developer Workflow
+## 📈 My Developer Workflow
 
-💡 Idea
-  ↓
-🧩 Architecture
-  ↓
-💻 Development
-  ↓
-🧪 Testing
-  ↓
-🔍 Debugging
-  ↓
-🚀 Deployment
-  ↓
-📊 Monitor
-  ↓
-🔁 Iterate
+<p align="center">
+  <strong>
+    💡 Idea
+    &nbsp;→&nbsp;
+    🧩 Architecture
+    &nbsp;→&nbsp;
+    💻 Build
+    &nbsp;→&nbsp;
+    🧪 Test
+    &nbsp;→&nbsp;
+    🔍 Debug
+    &nbsp;→&nbsp;
+    🚀 Deploy
+    &nbsp;→&nbsp;
+    📊 Monitor
+    &nbsp;→&nbsp;
+    🔁 Iterate
+  </strong>
+</p>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>⚛️</h3>
+      <strong>Frontend</strong><br/>
+      React · Next.js
+    </td>
+
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <strong>Backend</strong><br/>
+      Node.js · FastAPI
+    </td>
+
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <strong>AI Engineering</strong><br/>
+      LLM · RAG · Agents
+    </td>
+
+    <td align="center" width="25%">
+      <h3>🏗️</h3>
+      <strong>Architecture</strong><br/>
+      System Design · APIs
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20%26%20Next.js-Deepening-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React and Next.js" />
+  <img src="https://img.shields.io/badge/Python%20%26%20FastAPI-Building-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and FastAPI" />
+  <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-Learning-7C3AED?style=flat-square" alt="RAG and Vector Search" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AWS%20%26%20Docker-Strengthening-FF9900?style=flat-square" alt="AWS and Docker" />
+</p>
+
+---
+
+## 🧭 Engineering Interests
 
 <p align="center">
 
-<img
- src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge"
- alt="Full Stack Development"
-/>
+| 🌐 **Full Stack** | ⚡ **Real-Time** | 🤖 **AI Engineering** |
+|:---:|:---:|:---:|
+| React · Next.js | WebSockets · Socket.IO | LLMs · RAG |
+| Node.js · APIs | Event-driven systems | Agents · MCP |
 
-<img
- src="https://img.shields.io/badge/Backend%20Engineering-0F172A?style=for-the-badge"
- alt="Backend Engineering"
-/>
-
-<img
- src="https://img.shields.io/badge/AI%20Engineering-0F172A?style=for-the-badge"
- alt="AI Engineering"
-/>
-
-<img
- src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge"
- alt="System Design"
-/>
+| 🏗️ **Backend** | ☁️ **Cloud & DevOps** | 📊 **SaaS** |
+|:---:|:---:|:---:|
+| Node · FastAPI | AWS · Docker | Business platforms |
+| Auth · RBAC | CI/CD | Automation |
 
 </p>
 
-⚛️ Deepening expertise in React and Next.js
+---
 
-🏗️ Improving backend architecture and system design
+## 🤝 Let's Connect
 
-🐍 Building backend services with Python and FastAPI
-
-🤖 Exploring Generative AI and LLM applications
-
-📚 Learning RAG, embeddings, and vector databases
-
-🧠 Exploring AI agents and agentic workflows
-
-☁️ Strengthening AWS, Docker, and CI/CD
-
-🤝 Let's Connect
-
-I'm open to connecting with developers, engineers, and teams working on:
-
-Full Stack Development • Backend Engineering • AI Engineering • SaaS • Developer Tools
+<p align="center">
+  Interested in collaborating around
+  <strong>Full Stack · Backend · AI · SaaS · Developer Tools</strong>?
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
+      alt="LinkedIn"
     />
   </a>
-  &nbsp;
+
   <a href="https://x.com/Md_Azharuddin02" target="_blank">
     <img
       src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="Follow on X"
+      alt="X"
     />
   </a>
-  &nbsp;
+
   <a href="https://azharuddin.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit Portfolio"
+      alt="Portfolio"
     />
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=100&section=footer"
-    width="100%"
-    alt="Animated footer"
-  />
-</p>
-
-<p align="center">
-  <strong>Keep building. Keep learning. Keep shipping. 🚀</strong>
 </p>
