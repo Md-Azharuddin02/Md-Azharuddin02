@@ -1,60 +1,129 @@
 <h1 align="center">
   Hi there, I'm Md Azharuddin
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  <img
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="30px"
+    alt="Hi"
+  />
 </h1>
 
 <p align="center">
+  <strong>
+    Full Stack Developer • MERN • Next.js • Backend • AI Engineering
+  </strong>
+</p>
+
+<p align="center">
+  Building scalable, production-ready web applications, real-time systems,
+  REST APIs, and AI-powered solutions.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="https://x.com/Md_Azharuddin02" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
   </a>
   &nbsp;
   <a href="https://azharuddin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
+
 <table>
   <tr>
     <td valign="top" width="60%">
 
 ### 🧩 About Me
 
-Full Stack Developer specializing in the **MERN stack**, building fast, scalable, and production-ready web applications.
+Full Stack Developer specializing in the **MERN stack**, focused on building fast, scalable, maintainable, and production-ready web applications.
 
-- 🧠 Strong in **React, Next.js, Redux, and performance optimization (SSR, code splitting)**
-- ⚙️ Experienced in **Node.js, Express, and FastAPI** for scalable REST APIs and microservices
-- 🗄️ Proficient with **PostgreSQL & MongoDB** (schema design, query optimization)
-- 🔐 Implemented **JWT auth, RBAC, rate limiting, and secure backend architectures**
-- ☁️ Hands-on with **AWS (S3, EC2), Docker, and CI/CD pipelines (GitHub Actions)**
-- 📡 Built **real-time systems using WebSockets** and optimized high-volume data handling
+- 🧠 Experienced with **React, Next.js, Redux Toolkit, and frontend performance optimization**
+- ⚡ Hands-on with **SSR, code splitting, lazy loading, and modern frontend architecture**
+- ⚙️ Experienced in **Node.js, Express.js, and FastAPI** for REST APIs and backend services
+- 🗄️ Worked with **MongoDB, PostgreSQL, and MySQL**, including schema design and query optimization
+- 🔐 Implemented **JWT authentication, RBAC, rate limiting, and secure API architectures**
+- ☁️ Hands-on with **AWS, Docker, and CI/CD pipelines using GitHub Actions**
+- 📡 Built **real-time applications using WebSockets and Socket.IO**
+- 🤖 Exploring **LLM applications, RAG, vector databases, AI agents, and AI-powered products**
 
 </td>
-    <td align="center" width="40%">
-      <img
-        alt="Coder GIF"
-        height="220"
-        src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-      />
-    </td>
+
+<td align="center" width="40%">
+
+<img
+  alt="Coding"
+  height="220"
+  src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
+ />
+
+</td>
   </tr>
 </table>
 
-### 🔥 GitHub Stats
+---
+
+## 🚀 What I'm Currently Exploring
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+    alt="Advanced React"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"
+    alt="RAG"
+  />
+  <img
+    src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge"
+    alt="LLM Applications"
+  />
+  <img
+    src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"
+    alt="AI Agents"
+  />
+</p>
+
+I'm currently expanding beyond the traditional MERN stack into **Python, FastAPI, Generative AI, RAG, vector search, AI agents, and backend architecture**.
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
   <img
     height="180"
     src="./profile/stats.svg"
-    alt="GitHub Stats"
+    alt="Md Azharuddin GitHub Stats"
   />
   &nbsp;
   <img
     height="180"
     src="./profile/streak.svg"
-    alt="GitHub Streak"
+    alt="Md Azharuddin GitHub Streak"
   />
 </p>
 
@@ -62,11 +131,23 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
   <img
     height="180"
     src="./profile/top-langs.svg"
-    alt="Top Languages"
+    alt="Most Used Programming Languages"
   />
 </p>
 
-### 📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Azharuddin02&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+    width="95%"
+  />
+</p>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img
@@ -76,78 +157,248 @@ Full Stack Developer specializing in the **MERN stack**, building fast, scalable
   />
 </p>
 
-### 👀 Profile Views
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&label=Profile%20Views&style=flat"
-    alt="Profile Views"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+</p>
+
+### ⚛️ Frontend
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+    alt="React"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"
+    alt="Redux"
+  />
+  <img
+    src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"
+    alt="Tailwind CSS"
+  />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    alt="Express.js"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+    alt="JWT"
+  />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"
+    alt="Redis"
+  />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/AWS%20S3%20%26%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+    alt="AWS S3 and EC2"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
+    alt="GitHub Actions"
+  />
+  <img
+    src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Vercel"
+  />
+  <img
+    src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    alt="Netlify"
+  />
+  <img
+    src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"
+    alt="Render"
+  />
+</p>
+
+### 🛠️ Tools & Development
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    alt="Postman"
+  />
+  <img
+    src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+    alt="Visual Studio Code"
   />
 </p>
 
 ---
-### 🧰 Tech Stack
+
+## 🏆 Achievements
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <br/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-  <br/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-  <br/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <br/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS%20S3%20%26%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
+  <img
+    src="https://img.shields.io/github/followers/Md-Azharuddin02?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github"
+    alt="GitHub Followers"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/github/stars/Md-Azharuddin02?label=Total%20Stars&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&affiliations=OWNER"
+    alt="GitHub Stars"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&labelColor=1c1917"
+    alt="Pull Requests Welcome"
+  />
 </p>
 
 ---
 
-### 🏆 Achievements
- 
+## ✍️ Quote of the Day
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Md-Azharuddin02?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Md-Azharuddin02?label=Total%20Stars&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&affiliations=OWNER" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&labelColor=1c1917" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote of the Day"
+  />
 </p>
 
 ---
 
-### ✍️ Quote of the Day
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <img
+    src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge"
+    alt="Full Stack Development"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Backend%20Engineering-0F172A?style=for-the-badge"
+    alt="Backend Engineering"
+  />
+
+  <img
+    src="https://img.shields.io/badge/AI%20Engineering-0F172A?style=for-the-badge"
+    alt="AI Engineering"
+  />
+
+  <img
+    src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge"
+    alt="System Design"
+  />
+
+</p>
+
+- ⚛️ Deepening expertise in **React and Next.js**
+- 🏗️ Improving **backend architecture and system design**
+- 🐍 Building backend services with **Python and FastAPI**
+- 🤖 Exploring **Generative AI and LLM applications**
+- 📚 Learning **RAG, embeddings, and vector databases**
+- 🧠 Exploring **AI agents and agentic workflows**
+- ☁️ Strengthening **AWS, Docker, and CI/CD**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, engineers, and teams working on:
+
+**Full Stack Development • Backend Engineering • AI Engineering • SaaS • Developer Tools**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdazharuddin02/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Md_Azharuddin02" target="_blank">
+    <img
+      src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Follow on X"
+    />
+  </a>
+  &nbsp;
+  <a href="https://azharuddin.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Azharuddin02&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <strong>Keep building. Keep learning. Keep shipping. 🚀</strong>
 </p>
