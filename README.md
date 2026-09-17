@@ -2,7 +2,7 @@
   Hi there, I'm Md Azharuddin
   <img
     src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-    width="30px"
+    width="30"
     alt="Hi"
   />
 </h1>
@@ -25,24 +25,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/Md_Azharuddin02" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="https://azharuddin.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -54,27 +45,27 @@
   />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
 🧩 About Me
 
-Full Stack Developer specializing in the MERN stack, focused on building fast, scalable, maintainable, and production-ready web applications.
+<table align="center">
+  <tr>
+    <td width="65%" valign="top">
 
-🧠 Experienced with React, Next.js, Redux Toolkit, and frontend performance optimization
+Full Stack Developer specializing in the MERN stack, focused on building fast, scalable, maintainable, and production-ready applications.
 
-⚡ Hands-on with SSR, code splitting, lazy loading, and modern frontend architecture
+🧠 React, Next.js, Redux Toolkit & frontend performance
 
-⚙️ Experienced in Node.js, Express.js, and FastAPI for REST APIs and backend services
+⚡ SSR, code splitting, lazy loading & modern frontend architecture
 
-🗄️ Worked with MongoDB, PostgreSQL, and MySQL, including schema design and query optimization
+⚙️ Node.js, Express.js & FastAPI for REST APIs and backend services
 
-🔐 Implemented JWT authentication, RBAC, rate limiting, and secure API architectures
+🗄️ MongoDB, PostgreSQL & MySQL
 
-☁️ Hands-on with AWS, Docker, and CI/CD pipelines using GitHub Actions
+🔐 JWT authentication, RBAC, rate limiting & secure APIs
 
-📡 Built real-time applications using WebSockets and Socket.IO
+☁️ AWS, Docker & GitHub Actions
+
+📡 WebSockets & Socket.IO for real-time applications
 
 </table>
 
@@ -90,7 +81,7 @@ Full Stack Developer specializing in the MERN stack, focused on building fast, s
 
 🛠️ What I Build
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
 
@@ -101,6 +92,7 @@ Production-ready applications using modern frontend and backend architectures.
 React · Next.js · Node.js · Express
 
 </td>
+
 <td width="50%" valign="top">
 
 ⚡ Real-Time Systems
@@ -112,6 +104,7 @@ WebSockets · Socket.IO · Redis
 </td>
 
   </tr>
+
   <tr>
     <td width="50%" valign="top">
 
@@ -122,17 +115,19 @@ Secure and scalable APIs with authentication, authorization, and rate limiting.
 Node.js · Express · FastAPI · JWT · RBAC
 
 </td>
+
 <td width="50%" valign="top">
 
 📊 SaaS & Business Platforms
 
-Practical software for inventory, retail workflows, business operations, and automation.
+Software for inventory, retail workflows, business operations, and automation.
 
 MongoDB · PostgreSQL · REST APIs
 
 </td>
 
   </tr>
+
   <tr>
     <td width="50%" valign="top">
 
@@ -143,6 +138,7 @@ Exploring practical applications of LLMs, RAG, vector search, and AI agents.
 LLMs · RAG · Embeddings · AI Agents
 
 </td>
+
 <td width="50%" valign="top">
 
 ☁️ Cloud & DevOps
@@ -167,17 +163,19 @@ AWS · Docker · GitHub Actions · Vercel
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-Exploring-7C3AED?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector%20Search-Exploring-6D28D9?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Vector%20Search-Learning-6D28D9?style=flat-square" alt="Vector Search" />
   <img src="https://img.shields.io/badge/LLM%20Applications-Building-111827?style=flat-square" alt="LLM Applications" />
   <img src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=flat-square" alt="AI Agents" />
   <img src="https://img.shields.io/badge/MCP-Exploring-4F46E5?style=flat-square" alt="MCP" />
 </p>
 
-Expanding beyond the MERN stack into Python, FastAPI, Generative AI, RAG, vector search, AI agents, MCP, and backend architecture.
+<p align="center">
+  <strong>Learn → Experiment → Build → Integrate → Ship</strong>
+</p>
 
 🚀 Featured Projects
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
 
@@ -185,7 +183,7 @@ Expanding beyond the MERN stack into Python, FastAPI, Generative AI, RAG, vector
 
 A WhatsApp-style real-time messaging application built with the MERN stack.
 
-Tech: React · Node.js · Express · MongoDB · Socket.IO · Redux
+React · Node.js · Express · MongoDB · Socket.IO · Redux
 
 ⚡ Real-time messaging
 
@@ -203,13 +201,14 @@ Tech: React · Node.js · Express · MongoDB · Socket.IO · Redux
 💻 Source Code: Add your repository link
 
 </td>
+
 <td width="50%" valign="top">
 
 🏪 RetailOS
 
 A multi-tenant retail management platform designed for small businesses.
 
-Tech: React · Node.js · Express · MongoDB · AI
+React · Node.js · Express · MongoDB · AI
 
 📦 Inventory management
 
@@ -229,6 +228,7 @@ Tech: React · Node.js · Express · MongoDB · AI
 </td>
 
   </tr>
+
   <tr>
     <td width="50%" valign="top">
 
@@ -236,7 +236,7 @@ Tech: React · Node.js · Express · MongoDB · AI
 
 A practical pharmacy management solution focused on inventory and product management.
 
-Tech: Next.js · Node.js · MongoDB
+Next.js · Node.js · MongoDB
 
 📦 Medicine inventory
 
@@ -252,13 +252,14 @@ Tech: Next.js · Node.js · MongoDB
 💻 Source Code: Add your repository link
 
 </td>
+
 <td width="50%" valign="top">
 
 🤖 AI / RAG Experiments
 
-Exploring practical applications of LLMs, RAG, and AI-powered developer tools.
+Practical experiments around LLMs, RAG, vector search, and AI-powered developer tools.
 
-Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
+Python · FastAPI · RAG · Vector DB · LLM APIs
 
 🧠 Retrieval Augmented Generation
 
@@ -277,63 +278,19 @@ Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
   </tr>
 </table>
 
-🤖 AI Engineering Journey
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Exploring-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Embeddings-Exploring-8B5CF6?style=for-the-badge" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/Vector%20DB-Exploring-7C3AED?style=for-the-badge" alt="Vector Database" />
-  <img src="https://img.shields.io/badge/RAG-Building-6D28D9?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-Exploring-4F46E5?style=for-the-badge" alt="MCP" />
-</p>
-
-<p align="center">
-  <strong>Learn → Experiment → Build → Integrate → Ship</strong>
-</p>
-
-📊 Developer Metrics
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Azharuddin02&theme=tokyonight"
-    width="45%"
-    alt="Repositories per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Azharuddin02&theme=tokyonight"
-    width="45%"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Azharuddin02&theme=tokyonight&utcOffset=5.5"
-    width="45%"
-    alt="Productive Time"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Azharuddin02&theme=tokyonight"
-    width="45%"
-    alt="Profile Details"
-  />
-</p>
-
-🔥 GitHub Stats
+📊 GitHub Overview
 
 <p align="center">
   <img
     height="180"
     src="./profile/stats.svg"
-    alt="Md Azharuddin GitHub Stats"
+    alt="GitHub Stats"
   />
   &nbsp;
   <img
     height="180"
     src="./profile/streak.svg"
-    alt="Md Azharuddin GitHub Streak"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -349,7 +306,7 @@ Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Md-Azharuddin02/Md-Azharuddin02/main/profile/activity-graph.svg"
+    src="./profile/activity-graph.svg"
     alt="GitHub Contribution Activity Graph"
     width="95%"
   />
@@ -453,50 +410,54 @@ Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
 
 📈 My Developer Workflow
 
-<p align="center">
-  <strong>
-    💡 Idea
-    &nbsp;→&nbsp;
-    🧩 Architecture
-    &nbsp;→&nbsp;
-    💻 Build
-    &nbsp;→&nbsp;
-    🧪 Test
-    &nbsp;→&nbsp;
-    🔍 Debug
-    &nbsp;→&nbsp;
-    🚀 Deploy
-    &nbsp;→&nbsp;
-    📊 Monitor
-    &nbsp;→&nbsp;
-    🔁 Iterate
-  </strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">💡<br /><strong>Idea</strong></td>
+    <td align="center">→</td>
+    <td align="center">🧩<br /><strong>Architecture</strong></td>
+    <td align="center">→</td>
+    <td align="center">💻<br /><strong>Build</strong></td>
+    <td align="center">→</td>
+    <td align="center">🧪<br /><strong>Test</strong></td>
+    <td align="center">→</td>
+    <td align="center">🔍<br /><strong>Debug</strong></td>
+    <td align="center">→</td>
+    <td align="center">🚀<br /><strong>Deploy</strong></td>
+    <td align="center">→</td>
+    <td align="center">📊<br /><strong>Monitor</strong></td>
+    <td align="center">→</td>
+    <td align="center">🔁<br /><strong>Iterate</strong></td>
+  </tr>
+</table>
 
 🎯 Current Focus
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="180">
       <h3>⚛️</h3>
       <strong>Frontend</strong><br />
       React · Next.js
     </td>
-    <td align="center" width="25%">
-      <h3>⚙️</h3>
-      <strong>Backend</strong><br />
-      Node.js · FastAPI
-    </td>
-    <td align="center" width="25%">
-      <h3>🤖</h3>
-      <strong>AI Engineering</strong><br />
-      LLM · RAG · Agents
-    </td>
-    <td align="center" width="25%">
-      <h3>🏗️</h3>
-      <strong>Architecture</strong><br />
-      System Design · APIs
-    </td>
+
+<td align="center" width="180">
+  <h3>⚙️</h3>
+  <strong>Backend</strong><br />
+  Node.js · FastAPI
+</td>
+
+<td align="center" width="180">
+  <h3>🤖</h3>
+  <strong>AI Engineering</strong><br />
+  LLM · RAG · Agents
+</td>
+
+<td align="center" width="180">
+  <h3>🏗️</h3>
+  <strong>Architecture</strong><br />
+  System Design · APIs
+</td>
+
   </tr>
 </table>
 
@@ -510,40 +471,47 @@ Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
 
 🧭 Engineering Interests
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="33%">
-      <strong>🌐 Full Stack</strong><br />
+    <td align="center" width="220">
+      <strong>🌐 Full Stack</strong><br /><br />
       React · Next.js<br />
       Node.js · APIs
     </td>
-    <td align="center" width="33%">
-      <strong>⚡ Real-Time</strong><br />
-      WebSockets · Socket.IO<br />
-      Event-driven systems
-    </td>
-    <td align="center" width="33%">
-      <strong>🤖 AI Engineering</strong><br />
-      LLMs · RAG<br />
-      Agents · MCP
-    </td>
+
+<td align="center" width="220">
+  <strong>⚡ Real-Time</strong><br /><br />
+  WebSockets · Socket.IO<br />
+  Event-driven systems
+</td>
+
+<td align="center" width="220">
+  <strong>🤖 AI Engineering</strong><br /><br />
+  LLMs · RAG<br />
+  Agents · MCP
+</td>
+
   </tr>
+
   <tr>
     <td align="center">
-      <strong>🏗️ Backend</strong><br />
+      <strong>🏗️ Backend</strong><br /><br />
       Node · FastAPI<br />
       Auth · RBAC
     </td>
-    <td align="center">
-      <strong>☁️ Cloud & DevOps</strong><br />
-      AWS · Docker<br />
-      CI/CD
-    </td>
-    <td align="center">
-      <strong>📊 SaaS</strong><br />
-      Business platforms<br />
-      Automation
-    </td>
+
+<td align="center">
+  <strong>☁️ Cloud & DevOps</strong><br /><br />
+  AWS · Docker<br />
+  CI/CD
+</td>
+
+<td align="center">
+  <strong>📊 SaaS</strong><br /><br />
+  Business platforms<br />
+  Automation
+</td>
+
   </tr>
 </table>
 
@@ -565,24 +533,15 @@ Tech: Python · FastAPI · RAG · Vector DB · LLM APIs
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdazharuddin02/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/Md_Azharuddin02" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="Follow on X"
-    />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="https://azharuddin.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
