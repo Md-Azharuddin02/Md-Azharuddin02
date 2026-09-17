@@ -69,15 +69,26 @@ Full Stack Developer specializing in the MERN stack, focused on building fast, s
 
 </table>
 
-## 💻 Developer Terminal
+## 💻 Interactive Developer Terminal
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Md-Azharuddin02/Md-Azharuddin02/main/profile/developer-terminal.svg"
+    src="./profile/developer-terminal.svg"
     alt="Md Azharuddin Developer Terminal"
     width="90%"
   />
 </p>
+
+<p align="center">
+  <a href="https://md-azharuddin02.github.io/Md-Azharuddin02/">
+    <img src="https://img.shields.io/badge/▶%20OPEN%20INTERACTIVE%20TERMINAL-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14" alt="Open Interactive Terminal" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Ask about my stack, projects, experience, AI journey and more.</sub>
+</p>
+
 
 🛠️ What I Build
 
